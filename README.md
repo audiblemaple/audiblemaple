@@ -1,0 +1,3 @@
+- Hi, I’m lior jigalo
+- I’m interested in programming and computer stuff in general 
+- I’m currently studying for a computer science degree
