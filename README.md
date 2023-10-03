@@ -1,9 +1,9 @@
 # Audiblemaple | Lior Jigalo
 
-Welcome to my GitHub page. I'm Lior (Audiblemaple).
+Welcome to my GitHub page. I'm Lior, also known as Audiblemaple.
 
-- **Education**: I'm pursuing my undergraduate studies at [ORT Braude College of Engineering](https://w3.braude.ac.il/?lang=en).
-- **Profession**: Serving as an apprentice at a leading company in embedded systems and IPC solutions.
+- **Education**: Pursuing my undergraduate studies at [ORT Braude College of Engineering](https://w3.braude.ac.il/?lang=en).
+- **Profession**: Apprentice at a company specializing in embedded systems and IPC solutions.
 
 ---
 
