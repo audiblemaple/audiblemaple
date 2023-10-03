@@ -7,4 +7,4 @@ I am:
 ---
 # Contact
 * E-mail: `audiblemaple@gmail.com`
-* Linkedin: [https://www.linkedin.com/feed/](https://www.linkedin.com/in/lior-jigalo/)
+* Linkedin: [https://www.linkedin.com/in/lior-jigalo](https://www.linkedin.com/in/lior-jigalo)
