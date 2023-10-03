@@ -6,4 +6,4 @@ I am:
 * An apprentice at a company dealing with embedded solutions.
 ---
 # Contact
-* E-mail: ```C audiblemaple@gmail.com
+* E-mail: `audiblemaple@gmail.com`
