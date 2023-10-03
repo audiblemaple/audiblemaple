@@ -7,3 +7,4 @@ I am:
 ---
 # Contact
 * E-mail: `audiblemaple@gmail.com`
+* Linkedin: `https://www.linkedin.com/feed/`
