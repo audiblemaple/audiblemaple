@@ -1,4 +1,4 @@
-# <img align="left" alt="HTML"       width="30px" style="padding-right:10px;" src="blob:https://solidrn-my.sharepoint.com/2532bfde-2cf7-4cfa-a7b3-164f47181138"/>Audiblemaple
+#<img align="left" alt="HTML"       width="30px" style="padding-right:10px;" src="blob:https://solidrn-my.sharepoint.com/2532bfde-2cf7-4cfa-a7b3-164f47181138"/>Audiblemaple
 Hi there, this is audiblemaple (Lior Jigalo).
 
 I am:
