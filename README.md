@@ -6,7 +6,7 @@ I am:
 * An apprentice at a company dealing with embedded and IPC solutions.
 
 ### Languages and Tools
-<img align="left" alt="HTML"       width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"                 title="HTML"/>
+<img align="left" alt="HTML"  style="background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 70%), #333; box-shadow: inset 0 0 100px rgba(255, 165, 0, 0.7);"     width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"                 title="HTML" />
 <img align="left" alt="CSS"        width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"                   title="CSS"/>
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"       title="JavaScript"/>
 <img align="left" alt="React"      width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"              title="React"/>
