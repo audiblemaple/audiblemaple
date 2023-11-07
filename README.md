@@ -18,7 +18,7 @@ I am:
 <img align="left" alt="Linux"      width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"              title="Linux"/>
 <img align="left" alt="Bash"       width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"                title="Bash"/>
 <img align="left" alt="BuildRoot"  width="30px" style="padding-right:10px;" src="https://buildroot.org/images/logo.png"                                                    title="BuildRoot"/>
-<img align="left" alt="Yocto"      width="30px" style="padding-right:10px;" src="https://yoctoproject.org/wp-content/uploads/sites/32/2023/09/YoctoProject_Logo_RGB_White_small.svg" title="Yocto"/>
+<img align="left" alt="Yocto"      width="30px" style="padding-right:10px;" src="https://yoctoproject.org/wp-content/uploads/sites/32/2023/10/cropped-favicon-300x300.png" title="Yocto"/>
 <img align="left" alt="Git"        width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"                  title="Git"/>
 <br />
 
