@@ -18,7 +18,7 @@ I am:
 <img align="left" alt="Linux"      width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"              title="Linux"/>
 <img align="left" alt="Bash"       width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"                title="Bash"/>
 <img align="left" alt="BuildRoot"  width="30px" style="padding-right:10px;" src="https://buildroot.org/images/logo.png"                                                    title="BuildRoot"/>
-<img align="left" alt="Yocto"      width="60px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Yocto_Project_logo.svg" title="Yocto"/>
+<img align="left" alt="Yocto"    style="background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 70%), #333; box-shadow: inset 0 0 100px rgba(255, 165, 0, 0.7);"   width="60px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Yocto_Project_logo.svg" title="Yocto"/>
 <img align="left" alt="Git"        width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"                  title="Git"/>
 <br />
 
