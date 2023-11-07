@@ -15,7 +15,7 @@ I am:
 <img align="left" alt="React"      width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"        title="React"/>
 <img align="left" alt="NodeJS"     width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"      title="NodeJS"/>
 <img align="left" alt="Python"     width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"         title="Python"/>
-!<img align="left" alt="C++"        width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"    title="C++"/>
+<!-- <img align="left" alt="C++"        width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"    title="C++"/> -->
 <img align="left" alt="GitHub"     width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"      title="GitHub"/>
 <img align="left" alt="Bash"       width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"          title="Bash"/>
 <br />
