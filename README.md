@@ -5,7 +5,7 @@ I am:
 * An undergraduate student at [ORT Braude college of engineering.](https://w3.braude.ac.il/?lang=en)
 * An apprentice at a company dealing with embedded and IPC solutions.
 
-### 🧰 Languages and Tools
+### Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
