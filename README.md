@@ -19,7 +19,7 @@ I am:
 <img align="left" alt="Bash"       width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"          title="Bash"/>
 <img align="left" alt="BuildRoot"  width="30px" style="padding-right:10px;" src="https://buildroot.org/images/logo.png"                                              title="BuildRoot"/>
 <img align="left" alt="Yocto"      width="60px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Yocto_Project_logo.svg"         title="Yocto"/>
-<img align="left" alt="Git"        width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"            title="Git"/>
+<!-- <img align="left" alt="Git"        width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"            title="Git"/> -->
 <br />
 
 #
