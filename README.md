@@ -26,13 +26,6 @@ I am:
 
 <br />
 
-<style>
-  .icon{
-    style="padding-right:10px;"
-  }
-  
-</style>
-
 #
 
 ### Contact
