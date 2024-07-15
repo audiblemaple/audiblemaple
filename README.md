@@ -20,7 +20,6 @@ I am:
 <img align="left" alt="Ansible"    width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/1507452?s=48&v=4"                        title="Ansible"/>
 <img align="left" alt="BuildRoot"  width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/en/a/a9/Buildroot_logo.png"                                              title="BuildRoot"/>
 <img align="left" alt="Yocto"      width="60px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Yocto_Project_logo.svg"         title="Yocto"/>
-<img align="left" alt="CoreBoot"   width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Coreboot_full.svg/1200px-Coreboot_full.svg.png"            title="CoreBoot"/>
 
 <br />
 
