@@ -9,8 +9,10 @@ I am:
 
 <img align="left" alt="Linux"      width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"        title="Linux"/> Linux
 <br/>
-<img align="left" alt="Bash"       width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"          title="Bash"/>
-<img align="left" alt="Ansible"    width="50px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/1507452?s=48&v=4"                           title="Ansible"/>
+<img align="left" alt="Bash"       width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"          title="Bash"/> Bash 
+<br/>
+<img align="left" alt="Ansible"    width="50px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/1507452?s=48&v=4"                           title="Ansible"/> Ansible
+<br/>
 <img align="left" alt="BuildRoot"  width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/en/a/a9/Buildroot_logo.png"                  title="BuildRoot"/>
 <img align="left" alt="Yocto"      width="80px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Yocto_Project_logo.svg"         title="Yocto"/>
 <img align="left" alt="EDKII"      width="50px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/352162?s=200&v=4"                           title="EDKII"/>
