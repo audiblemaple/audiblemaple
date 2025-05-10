@@ -2,13 +2,13 @@
 Hi there, this is audiblemaple (Lior Jigalo).
 
 I am:
-* An undergraduate student at [ORT Braude college of engineering.](https://w3.braude.ac.il/?lang=en)
-* A software engineer at SolidRun dealing with embedded edge and IPC solutions, including BIOS development.
+* A software engineer at SolidRun dealing with embedded edge and IPC solutions, developing and maintaining the Bedrock R7000/R8000 & V3000 Families BIOS as well as writing writing hardware validation test cases.
 ---
 
 ### Languages and Tools
 
-<img align="left" alt="Linux"      width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"        title="Linux"/>
+<img align="left" alt="Linux"      width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"        title="Linux"/> Linux
+<br/>
 <img align="left" alt="Bash"       width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"          title="Bash"/>
 <img align="left" alt="Ansible"    width="50px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/1507452?s=48&v=4"                           title="Ansible"/>
 <img align="left" alt="BuildRoot"  width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/en/a/a9/Buildroot_logo.png"                  title="BuildRoot"/>
