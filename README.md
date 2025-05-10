@@ -1,38 +1,31 @@
-<div align="center">
+# Audiblemaple
+Hi there, this is audiblemaple (Lior Jigalo).
 
-# 👋 Hi, I’m **Lior "Audiblemaple" Jigalo**
-
-> Software Engineer @ SolidRun
-
-</div>
-
+I am:
+* A software engineer at SolidRun dealing with embedded edge and IPC solutions, developing and maintaining the Bedrock R7000/R8000 & V3000 Families BIOS as well as writing writing hardware validation test cases.
 ---
 
-### About me
-- Embedded edge & IPC solutions
-- Bedrock R7000/R8000 & V3000 BIOS development
-- Hardware validation test cases
+### Tech stack
 
----
+<img align="left" alt="Linux"      width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"        title="Linux"/>
+<img align="left" alt="Bash"       width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"          title="Bash"/> 
+<img align="left" alt="Ansible"    width="50px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/1507452?s=48&v=4"                           title="Ansible"/>
+<img align="left" alt="BuildRoot"  width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/en/a/a9/Buildroot_logo.png"                  title="BuildRoot"/>
+<img align="left" alt="Yocto"      width="80px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Yocto_Project_logo.svg"         title="Yocto"/>
+<img align="left" alt="EDKII"      width="50px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/352162?s=200&v=4"                           title="EDKII"/>
 
-### Tech Stack
+<img align="left" alt="Java"       width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"          title="Java"/>
+<img align="left" alt="Python"     width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"         title="Python"/>
+<img align="left" alt="GitHub"     width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"      title="GitHub"/>
+<img align="left" alt="HTML"       width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"           title="HTML" />
+<img align="left" alt="CSS"        width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"             title="CSS"/>
+<img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="JavaScript"/>
+<img align="left" alt="React / React-native"      width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"        title="React / React-native"/>
+<img align="left" alt="NodeJS"     width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"      title="NodeJS"/>
+<br />
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"    alt="Linux"    width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"      alt="Bash"     width="32" />
-  <img src="https://avatars.githubusercontent.com/u/1507452?s=48&v=4"                       alt="Ansible"  width="32" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/a/a9/Buildroot_logo.png"            alt="BuildRoot"width="32" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Yocto_Project_logo.svg"       alt="Yocto"   width="32" />
-  <img src="https://avatars.githubusercontent.com/u/352162?s=200&v=4"                        alt="EDK II"   width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"     alt="Python"  width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"        alt="Java"    width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JS"      width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"      alt="React"   width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"    alt="Node.js" width="32" />
-</p>
-
----
+#
 
 ### Contact
-- [lior.jigalo@solid-run.com](mailto:lior.jigalo@solid-run.com)
-- [LinkedIn](https://www.linkedin.com/in/lior-jigalo)
+* E-mail: lior.jigalo@solid-run.com
+* Linkedin: [https://www.linkedin.com/in/lior-jigalo](https://www.linkedin.com/in/lior-jigalo)
